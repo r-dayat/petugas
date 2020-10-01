@@ -1,0 +1,18 @@
+.registrasi-pasien{
+    padding-top: 70px;
+}
+
+.registrasi-pasien p{
+    font-size: 1.3em;
+    padding-bottom: 20px;
+}
+
+.registrasi-pasien .btn{
+    margin-top: 10px;
+    margin-bottom: 70px;
+}
+
+
+@media screen and (max-width: 576px){
+
+}
